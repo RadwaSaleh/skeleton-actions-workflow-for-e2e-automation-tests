@@ -1,0 +1,1 @@
+# skeleton-workflow-for-e2e-automation-tests
